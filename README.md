@@ -1,6 +1,7 @@
-<img width="790" alt="image" src="https://github.com/user-attachments/assets/01e24302-7b3a-4ba7-845b-b6997c4800ae"># Query-multiple-tables-using-SQLite
 Querying 7 table using SQLite to determine answers for dairy industry
+
 Script to create table
+
 CREATE TABLE cheese_production (
     Year INTEGER,
     Period TEXT,
@@ -61,7 +62,7 @@ CREATE TABLE yogurt_production (
     Value INTEGER
 );
 
-
+<img width="790" alt="image" src="https://github.com/user-attachments/assets/01e24302-7b3a-4ba7-845b-b6997c4800ae">#
 <img width="790" alt="image" src="https://github.com/user-attachments/assets/6ae1ae00-a0f5-43f3-ac3f-e4fc6323d100">
 <img width="788" alt="image" src="https://github.com/user-attachments/assets/e53744a3-84a6-4cfc-ac42-3ef3be3ba843">
 <img width="805" alt="image" src="https://github.com/user-attachments/assets/43359410-8cd8-4990-b331-2d540867da10">
